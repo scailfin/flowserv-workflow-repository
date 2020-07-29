@@ -1,8 +1,6 @@
 # Workflow Template Repository
 
-This repository maintains the workflow template index file templates.json. This file contains a list of workflow templates that can be installed using the flowServ command-line interface.
-
-The format for entries in the template index is:
+This repository maintains the workflow template index file [templates.json](https://github.com/scailfin/flowserv-workflow-repository/blob/master/templates.json). This file contains a list of workflow templates that can be installed using the flowServ command-line interface. The format for entries in the template index is:
 
 ```
 {
