@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+.vagrant
+.idea
+.vscode/*
+.ipynb_checkpoints
+.tmp/
+.flowserv/
+.rob/
