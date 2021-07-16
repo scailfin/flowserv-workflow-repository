@@ -2,11 +2,7 @@
     {
         "id": "helloworld",
         "description": "Hello World Demo",
-        "url": "https://github.com/scailfin/rob-demo-hello-world.git",
-        "args": [
-            {"key": "single_branch", "value": true},
-            {"key": "b", "value": "flowserv/0.9.0"}
-        ]
+        "url": "https://github.com/scailfin/rob-demo-hello-world.git"
     },
     {
         "id": "toptagger",
